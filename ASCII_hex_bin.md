@@ -127,7 +127,7 @@ All 128 ASCII characters with their corresponding hex and binary values.
 | 121 | 0x79 | 01111001  | y    | Lowercase y |
 | 122 | 0x7A | 01111010  | z    | Lowercase z |
 | 123 | 0x7B | 01111011  | {    | Left brace |
-| 124 | 0x7C | 01111100  | |    | Vertical bar |
+| 124 | 0x7C | 01111100  | \|    | Vertical bar |
 | 125 | 0x7D | 01111101  | }    | Right brace |
 | 126 | 0x7E | 01111110  | ~    | Tilde |
 | 127 | 0x7F | 01111111  | DEL  | Delete |
